@@ -1,6 +1,6 @@
-# Amazon Landing Page Clone
+# Nile
 
-A UI clone of https://www.amazon.com/ landing page with Reactjs
+A UI clone of https://www.amazon.com/ landing page with React.js
 
 ## Tech Stack
 
